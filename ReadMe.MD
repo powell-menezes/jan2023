@@ -1,4 +1,4 @@
-About READMEs
+About README
 In this article
 About READMEs
 Auto-generated table of contents for README files
